@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
+      "mobile": "+91-1234567890",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "George",
+      "email": "george@email.com",
+      "mobile": "+98765472893",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
